@@ -5,7 +5,7 @@
   <a href="mailto:karanpatel1420@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/kiransala" target="_blank">
+  <a href="www.linkedin.com/in/karanpatel11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://kiransala.netlify.app/" target="_blank">
