@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Karan Patel from Navi Mumbai<br><br>- 🔭 A Fresher<br>- 📚 I'm currently learning update Tech<br>- ⚡ In my free time I watch Tutorials of Latest Projects in the Market and Learn Stuffs related to it</p>
+<p align="left">I'm Karan Patel from Navi Mumbai<br><br>- 🔭 A Fresher<br>- 📚 I'm currently learning updated Tech<br>- ⚡ In my free time I watch Tutorials of Latest Projects in the Market and Learn Stuffs related to it</p>
 
 ###
 
